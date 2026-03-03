@@ -58,12 +58,11 @@ The final model achieves:
 
 ## Project Structure
 fake-news-detection/
-│
-├── app.py
-├── model.pkl
-├── vectorizer.pkl
-├── requirements.txt
-├── README.md
+    ├── app.py
+    ├── model.pkl
+    ├── vectorizer.pkl
+    ├── requirements.txt
+    ├── README.md
 
 
 ## How to Run Locally
